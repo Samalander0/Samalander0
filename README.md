@@ -1,2 +1,3 @@
-👋 Hi, I’m @Samalander0. I'm a digital designer, web developer, and student.
-You can learn more about me on [my website](https://www.samalander.dev), or [DM me on Discord](https://discord.com/users/588480933108121618).
+Hey! I'm Sam, a digital designer and web developer. You can find me online at [samcheng.co](https://www.samcheng.co) or email me at hi@samcheng.co
+
+Currently looking for internships and interesting projects
